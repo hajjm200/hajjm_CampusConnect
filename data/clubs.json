@@ -1,0 +1,38 @@
+[
+  {
+    "id": "coding_club",
+    "name": "Coding Club",
+    "category": "Technology",
+    "description": "Learn programming, web dev, and app creation."
+  },
+  {
+    "id": "robotics_club",
+    "name": "Robotics Club",
+    "category": "Engineering",
+    "description": "Build and program robots for competitions."
+  },
+  {
+    "id": "dance_club",
+    "name": "OSU Dance Collective",
+    "category": "Arts",
+    "description": "Hip-hop, contemporary, and cultural dance styles."
+  },
+  {
+    "id": "game_dev_osu",
+    "name": "Game Developers @ OSU",
+    "category": "Technology",
+    "description": "Design, program, and publish video games."
+  },
+  {
+    "id": "astronomy_club",
+    "name": "Astronomy Club",
+    "category": "Science",
+    "description": "Explore space, telescopes, planets, and star events."
+  },
+  {
+    "id": "photography_club",
+    "name": "Photography Club",
+    "category": "Arts",
+    "description": "Creative photography meetups and editing workshops."
+  }
+]
