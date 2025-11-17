@@ -60,8 +60,8 @@ testSearch();
 ---
 
 #  3. UML Sequence Diagram (Required for Assignment)
+<img width="575" height="179" alt="Screenshot 2025-11-17 at 1 22 39 PM" src="https://github.com/user-attachments/assets/e71d6fe7-f018-482c-9c58-91f0e2998d19" />
 
-WORKING ON IT
 
 # 4. How to Run This Microservice
 
